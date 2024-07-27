@@ -14,3 +14,4 @@ const connectToMongo = async () => {
 };
 
 module.exports = connectToMongo; // Export the connection function
+  
